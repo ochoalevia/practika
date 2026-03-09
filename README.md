@@ -1,4 +1,4 @@
-# PRAKTIKA – Web con Vue y Nuxt
+# practika – Web con Vue y Nuxt
 
 Proyecto web con **Vue 3** y **Nuxt 3**.
 
